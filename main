@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Fan de SC2</title>
+        <link rel="stylesheet" href="stylesheet.css">
+    </head>
+    <body>
+        <header>
+            <h1 class="leftheader">Porque</h1>
+            <img src="./logo.png" class="logo" width="15%" height ="15%">
+            <h1 class="rightheader">    es el mejor juego de la historia</h1>
+        </header>
+        <div class="introduccion">
+        <p> Starcraft II es un juego que incluye gran cantidad de modalidades, hechas desde para gente sin reflejos 
+        y con poca experientada hasta para jugadores experimentados que le dedican su vida y forman una carrera profesional 
+        alrededor de él. Gracias a todo esto y que la comunidad aporta al juego creando nuevas modalidades en el editor 
+        arcade puedo decir que este juego es el mejor de su época
+        </div>
+        </p>
+        
+        <main>
+            <p> Por estos motivos quiero introducirte al mundo de SC II </p>
+            <section>    
+            </section>
+            <section>
+            </section>
+            <section>
+            </section>
+        </main>
+        <footer>
+        </footer>    
+    </body>
+</html>
